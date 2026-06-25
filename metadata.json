@@ -1,0 +1,8 @@
+{
+  "name": "Eshwar Kalbande Portfolio",
+  "description": "A 3D animated and attractive personal developer portfolio for Eshwar Kalbande.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
